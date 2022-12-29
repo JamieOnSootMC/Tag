@@ -1,0 +1,6 @@
+name: Tag
+version: '${project.version}'
+main: dev.jamieisgeek.tag.Tag
+api-version: 1.19
+authors: [ JamieIsGeek ]
+description: A Tag plugin for spigot servers. A recreation of my first ever minigame plugin
