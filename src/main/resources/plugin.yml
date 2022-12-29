@@ -4,3 +4,10 @@ main: dev.jamieisgeek.tag.Tag
 api-version: 1.19
 authors: [ JamieIsGeek ]
 description: A Tag plugin for spigot servers. A recreation of my first ever minigame plugin
+commands:
+  jointag:
+    description: Join the tag game
+    usage: /jointag
+
+  tagadmin:
+    description: Tag admin commands

@@ -1,0 +1,21 @@
+chatPrefix: '&8[&a&lTag&8] '
+gameDuration:
+
+# This is the list of locations where people can spawn in when the game starts. Should probably be in the arena. Players will randomly spawn at any of these locations
+spawnLocations:
+  1:
+    world: world
+    x: 0.5
+    y: 70.0
+    z: 0.5
+  2:
+    world: world
+    x: 0.5
+    y: 70.0
+    z: 0.5
+
+hubLocation:
+    world: world
+    x: 0.5
+    y: 70.0
+    z: 0.5
